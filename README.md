@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,py,powershell,git,github" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,py,powershell,kotlin,java,cs,html,css,react,vue,nodejs,electron,tailwind,nextjs,docker,sqlite,mysql,git,github,vscode,visualstudio,androidstudio,npm,linux,windows,bash,markdown" alt="tech stack" />
 </div>
 
 <div align="center">
