@@ -12,6 +12,9 @@
   <a href="https://x.com/T_Caesar_" target="_blank">
     <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="x logo" />
   </a>
+  <a href="https://ttnan.github.io/arcade/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=%F0%9F%8E%AE%20ARCADE&label=&color=7B2FF7&style=for-the-badge" height="35" alt="arcade" />
+  </a>
   <a href="mailto:thnssssss7@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
