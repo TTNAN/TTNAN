@@ -17,9 +17,7 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=%E5%85%A8%E6%A0%88%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85%3B%E8%87%AA%E5%8A%A8%E5%8C%96%E8%84%9A%E6%9C%AC%E5%AE%9A%E5%88%B6%3BWPS+%2F+RPA+%E5%8A%9E%E5%85%AC%E8%87%AA%E5%8A%A8%E5%8C%96%3BGitHub+%E5%BC%80%E6%BA%90%E4%BD%9C%E8%80%85" alt="typing animation" />
-</div>
+<p align="center"><i>把重复留给机器，把时间留给自己。</i></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TTNAN/TTNAN/output/github-snake-dark.svg">
