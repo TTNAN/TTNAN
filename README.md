@@ -17,7 +17,7 @@
   </a>
 </div>
 
-<p align="center"><i>Fortune favors the bold.</i></p>
+<h3 align="center"><i>Fortune favors the bold.</i></h3>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TTNAN/TTNAN/output/github-snake-dark.svg">
