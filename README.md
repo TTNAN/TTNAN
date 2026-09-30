@@ -21,8 +21,3 @@
   <img src="https://raw.githubusercontent.com/TTNAN/TTNAN/main/motto.svg" alt="Fortune favors the bold." />
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TTNAN/TTNAN/output/conways-game-of-life-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TTNAN/TTNAN/output/conways-game-of-life-light.svg" />
-  <img alt="conways-game-of-life" width="100%" src="https://raw.githubusercontent.com/TTNAN/TTNAN/output/conways-game-of-life-light.svg" />
-</picture>
