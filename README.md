@@ -1,4 +1,4 @@
-<h2 align="center">Full-Stack Indie Developer | GitHub Open Source Author</h2>
+<h2 align="center">Full-Stack Indie Developer | Open Source Builder</h2>
 
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TTNAN&theme=dark" alt="GitHub Streak" /></a>
