@@ -21,3 +21,8 @@
   <img src="https://raw.githubusercontent.com/TTNAN/TTNAN/main/motto.svg" alt="Fortune favors the bold." />
 </div>
 
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TTNAN/TTNAN/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TTNAN/TTNAN/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" width="100%" src="https://raw.githubusercontent.com/TTNAN/TTNAN/output/pacman-contribution-graph.svg">
+</picture>
