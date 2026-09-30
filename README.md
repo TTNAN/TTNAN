@@ -1,6 +1,10 @@
 <h2 align="center">全栈独立开发者｜GitHub 开源作者</h2>
 
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=TTNAN&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</div>
+
+<div align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TTNAN&theme=dark" alt="GitHub Streak" /></a>
 </div>
 
