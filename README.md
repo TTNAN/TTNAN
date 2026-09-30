@@ -17,7 +17,7 @@
   </a>
 </div>
 
-<p align="center"><i>No boss. Just ship.</i></p>
+<p align="center"><i>Fortune favors the bold.</i></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TTNAN/TTNAN/output/github-snake-dark.svg">
