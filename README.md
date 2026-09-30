@@ -22,7 +22,7 @@
 </div>
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TTNAN/TTNAN/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TTNAN/TTNAN/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" width="100%" src="https://raw.githubusercontent.com/TTNAN/TTNAN/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TTNAN/TTNAN/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TTNAN/TTNAN/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" width="100%" src="https://raw.githubusercontent.com/TTNAN/TTNAN/output/github-snake.svg">
 </picture>
