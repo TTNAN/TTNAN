@@ -21,9 +21,4 @@
   <img src="https://raw.githubusercontent.com/TTNAN/TTNAN/main/motto.svg" alt="Fortune favors the bold." />
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TTNAN/TTNAN/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TTNAN/TTNAN/output/github-snake.svg">
-  <img alt="github contribution grid snake animation" width="100%" src="https://raw.githubusercontent.com/TTNAN/TTNAN/output/github-snake.svg">
-</picture>
 
