@@ -1,4 +1,6 @@
-<h2 align="center">Full-Stack Indie Developer | Open Source Builder</h2>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TTNAN/TTNAN/main/title.svg" alt="Full-Stack Indie Developer | Open Source Builder" />
+</div>
 
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TTNAN&theme=dark" alt="GitHub Streak" /></a>
