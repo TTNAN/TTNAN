@@ -1,13 +1,30 @@
-## Caesar
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TTNAN/TTNAN/main/title.svg" alt="Full-Stack Indie Developer | Open Source Builder" />
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=20&duration=3200&pause=1200&color=8B949E&vCenter=true&width=460&height=34&lines=Finance+%C3%97+AI;Building+AI+products;Open+source+contributor" alt="Finance × AI · Building AI products · Open source contributor" />
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TTNAN&theme=dark&cache=2" alt="GitHub Streak" /></a>
+</div>
 
-*左手财报，右手代码。*
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,py,powershell,kotlin,java,cs,html,css,react,vue,nodejs,electron,tailwind,nextjs,docker,sqlite,mysql,git,github,vscode,visualstudio,androidstudio,npm,linux,windows,bash,markdown,cloudflare,postman" alt="tech stack" />
+</div>
 
-[cybercaesar.bond](https://cybercaesar.bond) · [X](https://x.com/T_Caesar_) · [Email](mailto:thnssssss7@gmail.com)
+<div align="center">
+  <a href="https://x.com/T_Caesar_" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="x logo" />
+  </a>
+  <a href="mailto:thnssssss7@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+</div>
 
-&nbsp;
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TTNAN/TTNAN/main/motto.svg" alt="Fortune favors the bold." />
+</div>
 
-**Work** — [earnings-card](https://github.com/TTNAN/earnings-card) turns SEC filings into share-ready earnings cards · [fangge-junshi](https://github.com/TTNAN/fangge-junshi) decodes financial sales pitches · [agent-craft-cn](https://github.com/TTNAN/agent-craft-cn) brings dev methodology to coding agents.
-
-**Open source** — merged contributions to [Angular](https://github.com/angular/angular/pull/71292), [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/pull/70826) and [yfinance](https://github.com/ranaroussi/yfinance/pull/2992).
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/TTNAN/TTNAN@output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/TTNAN/TTNAN@output/github-snake.svg">
+  <img alt="github contribution grid snake animation" width="100%" src="https://cdn.jsdelivr.net/gh/TTNAN/TTNAN@output/github-snake.svg">
+</picture>
