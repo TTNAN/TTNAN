@@ -28,3 +28,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/TTNAN/TTNAN@output/github-snake.svg">
   <img alt="github contribution grid snake animation" width="100%" src="https://cdn.jsdelivr.net/gh/TTNAN/TTNAN@output/github-snake.svg">
 </picture>
+
+<p align="center">
+  <img src="./koi.gif" alt="ASCII koi pond" width="100%" />
+</p>
