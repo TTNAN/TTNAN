@@ -1,13 +1,9 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TTNAN/TTNAN/main/title.svg" alt="Full-Stack Indie Developer | Open Source Builder" />
+  <img src="./hero.gif" alt="Full-Stack Indie Developer | Open Source Builder — Fortune favors the bold." width="100%" />
 </div>
 
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TTNAN&theme=dark&cache=2" alt="GitHub Streak" /></a>
-</div>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,py,powershell,kotlin,java,cs,html,css,react,vue,nodejs,electron,tailwind,nextjs,docker,sqlite,mysql,git,github,vscode,visualstudio,androidstudio,npm,linux,windows,bash,markdown,cloudflare,postman" alt="tech stack" />
 </div>
 
 <div align="center">
@@ -19,16 +15,8 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/TTNAN/TTNAN/main/motto.svg" alt="Fortune favors the bold." />
-</div>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/TTNAN/TTNAN@output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/TTNAN/TTNAN@output/github-snake.svg">
   <img alt="github contribution grid snake animation" width="100%" src="https://cdn.jsdelivr.net/gh/TTNAN/TTNAN@output/github-snake.svg">
 </picture>
-
-<p align="center">
-  <img src="./koi.gif" alt="ASCII koi pond" width="100%" />
-</p>
