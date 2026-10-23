@@ -1,0 +1,36 @@
+name: Koi pond hero
+
+on:
+  schedule:
+    - cron: "30 0 * * *"   # daily 08:30 Beijing time
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg libcairo2
+          pip install numpy pillow cairosvg
+      - name: Render
+        run: |
+          python koi/hero.py
+          ffmpeg -y -loglevel error -framerate 10 -i koi/hframes/f%04d.png -vf "split[a][b];[a]palettegen=max_colors=128:stats_mode=diff[p];[b][p]paletteuse=dither=none:diff_mode=rectangle" -loop 0 hero.gif
+          ls -l hero.gif
+      - name: Publish to koi-output branch
+        run: |
+          mkdir out && mv hero.gif out/ && cd out
+          git init -q -b koi-output
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add hero.gif && git commit -qm "Render koi pond $(date -u +%F)"
+          git push -f "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" koi-output
