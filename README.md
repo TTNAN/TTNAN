@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./hero.gif" alt="Full-Stack Indie Developer | Open Source Builder — Fortune favors the bold." width="100%" />
+  <img src="https://raw.githubusercontent.com/TTNAN/TTNAN/koi-output/hero.gif" alt="Full-Stack Indie Developer | Open Source Builder — Fortune favors the bold." width="100%" />
 </div>
 
 <div align="center">
