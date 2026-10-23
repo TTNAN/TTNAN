@@ -11,4 +11,4 @@
   </a>
 </div>
 
-<img alt="github contribution grid snake animation" width="100%" src="https://cdn.jsdelivr.net/gh/TTNAN/TTNAN@output/github-snake.svg">
+<img alt="github contribution grid snake animation" width="100%" src="https://raw.githubusercontent.com/TTNAN/TTNAN/output/github-snake.svg">
