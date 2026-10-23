@@ -15,8 +15,4 @@
   </a>
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/TTNAN/TTNAN@output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/TTNAN/TTNAN@output/github-snake.svg">
-  <img alt="github contribution grid snake animation" width="100%" src="https://cdn.jsdelivr.net/gh/TTNAN/TTNAN@output/github-snake.svg">
-</picture>
+<img alt="github contribution grid snake animation" width="100%" src="https://cdn.jsdelivr.net/gh/TTNAN/TTNAN@output/github-snake.svg">
