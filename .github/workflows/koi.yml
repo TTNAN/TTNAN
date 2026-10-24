@@ -2,7 +2,7 @@ name: Koi pond hero
 
 on:
   schedule:
-    - cron: "30 0 * * *"   # daily 08:30 Beijing time
+    - cron: "5 4,16 * * *"   # 00:05 and 12:05 Beijing time
   workflow_dispatch:
 
 permissions:
