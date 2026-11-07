@@ -353,16 +353,17 @@ def build_base():
 STREAK_URL = os.environ.get("STREAK_URL", "https://streak-stats.demolab.com/?user=TTNAN&hide_border=true&background=FFFFFF00&ring=FB8C00&fire=FB8C00&currStreakLabel=FB8C00&currStreakNum=1F2328&sideNums=1F2328&sideLabels=1F2328&dates=6E7781&stroke=D0D7DE")
 def streak_card():
     import re, urllib.request, io as _io
-    try:
-        import cairosvg
-        svg = urllib.request.urlopen(urllib.request.Request(STREAK_URL, headers={"User-Agent": "koi"}), timeout=30).read().decode()
-        svg = re.sub(r"opacity: 0; animation[^']*'", "'", svg)
-        svg = re.sub(r"style='animation: currstreak[^']*'", "", svg)
-        png = cairosvg.svg2png(bytestring=svg.encode(), output_width=680)
-        return Image.open(_io.BytesIO(png)).convert("RGBA")
-    except Exception as e:
-        print("streak card failed:", e)
-        return None
+    for attempt in range(3):
+        try:
+            import cairosvg
+            svg = urllib.request.urlopen(urllib.request.Request(STREAK_URL, headers={"User-Agent": "koi"}), timeout=60).read().decode()
+            svg = re.sub(r"opacity: 0; animation[^']*'", "'", svg)
+            svg = re.sub(r"style='animation: currstreak[^']*'", "", svg)
+            png = cairosvg.svg2png(bytestring=svg.encode(), output_width=680)
+            return Image.open(_io.BytesIO(png)).convert("RGBA")
+        except Exception as e:
+            print(f"streak card attempt {attempt + 1} failed:", e)
+    return None
 BASE = build_base()
 
 def draw_frame(fi, t, energy, cflag, cshade, ckey, crgb, cdim):
